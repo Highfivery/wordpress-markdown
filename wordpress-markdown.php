@@ -1,16 +1,16 @@
 <?php
 /**
- * Markdown WordPress Plugin
+ * WordPress Markdown Plugin
  *
  * @package Markdown
  *
- * Plugin Name: Markdown
+ * Plugin Name: WordPress Markdown
  * Description: Enable Markdown support for comments.
- * Plugin URI:  https://www.benmarshall.me/markdown/
+ * Plugin URI:  https://www.benmarshall.me/wordpress-markdown/
  * Version:     1.0.0
  * Author:      Ben Marshall
  * Author URI:  https://www.benmarshall.me
- * Text Domain: markdown
+ * Text Domain: wordpress-markdown
  */
 
 define( 'MARKDOWN', __FILE__ );
@@ -29,9 +29,9 @@ require plugin_dir_path( MARKDOWN ) . 'vendor/autoload.php';
  * @param WP_Comment|null $comment The comment object. Null if not found.
  * @return string The parsed comment.
  */
-function markdown_comment_text( $comment_text, $comment = null ) {
+function wordpress_markdown_comment_text( $comment_text, $comment = null ) {
   $Parsedown = new Parsedown();
 
   return $Parsedown->line( $comment_text );
 }
-add_filter( 'comment_text', 'markdown_comment_text', 10, 2 );
+add_filter( 'comment_text', 'wordpress_markdown_comment_text', 10, 2 );
