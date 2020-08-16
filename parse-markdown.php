@@ -1,16 +1,16 @@
 <?php
 /**
- * Markdown Markup Plugin
+ * Parse Markdown Plugin
  *
- * @package MarkdownMarkup
+ * @package ParseMarkdown
  *
- * Plugin Name: Markdown Markup
+ * Plugin Name: Parse Markdown
  * Description: Enable Markdown support for comments.
  * Plugin URI:  https://www.benmarshall.me/wordpress-markdown/
  * Version:     1.0.0
  * Author:      Ben Marshall
  * Author URI:  https://www.benmarshall.me
- * Text Domain: markdown-markup
+ * Text Domain: parse-markdown
  */
 
 define( 'MARKDOWN', __FILE__ );

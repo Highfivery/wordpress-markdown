@@ -1,7 +1,7 @@
-=== Markdown Markup ===
+=== Parse Markdown ===
 Contributors: bmarshall511
 Tags: markdown, code
-Donate link: https://benmarshall.me/donate/?utm_source=markdown_markup&utm_medium=wordpress_repo&utm_campaign=donate
+Donate link: https://benmarshall.me/donate/?utm_source=parse_markdown&utm_medium=wordpress_repo&utm_campaign=donate
 Requires at least: 5.2
 Tested up to: 5.5
 Requires PHP: 7.1
