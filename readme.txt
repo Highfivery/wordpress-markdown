@@ -1,7 +1,7 @@
-=== WordPress Markdown ===
+=== Markdown Markup ===
 Contributors: bmarshall511
 Tags: markdown, code
-Donate link: https://benmarshall.me/donate/?utm_source=wordpress_markdown&utm_medium=wordpress_repo&utm_campaign=donate
+Donate link: https://benmarshall.me/donate/?utm_source=markdown_markup&utm_medium=wordpress_repo&utm_campaign=donate
 Requires at least: 5.2
 Tested up to: 5.5
 Requires PHP: 7.1
@@ -17,7 +17,7 @@ Enables [Markdown](https://daringfireball.net/projects/markdown/) in WordPress c
 
 == Installation ==
 
-1. Upload the entire referrer-analytics folder to the `/wp-content/plugins/` directory.
+1. Upload the entire `markdown-markup` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the Plugins screen (Plugins > Installed Plugins).
 
 For more information, see the [plugin’s website](https://benmarshall.me/markdown).
