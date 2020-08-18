@@ -5,7 +5,7 @@
  * @package ParseMarkdown
  *
  * Plugin Name: Parse Markdown
- * Description: Enable Markdown support for comments.
+ * Description: Integrate Markdown into your WordPress site. A simple, light-weight, no configuration-required, standards-driven plugin that allows commenters to use Markdown in their comments.
  * Plugin URI:  https://www.benmarshall.me/wordpress-markdown/
  * Version:     1.0.0
  * Author:      Ben Marshall

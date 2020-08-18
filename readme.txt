@@ -9,7 +9,7 @@ Stable tag: 1.0.0
 License: GNU GPLv3
 License URI: https://choosealicense.com/licenses/gpl-3.0/
 
-Enables [Markdown](https://daringfireball.net/projects/markdown/) in WordPress comments.
+Integrate [Markdown](https://daringfireball.net/projects/markdown/) into WordPress. Simple, no configuration-required, standards-driven plugin allowing commenters to use Markdown in their comments.
 
 == Description ==
 
