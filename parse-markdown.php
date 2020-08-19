@@ -7,7 +7,7 @@
  * Plugin Name: Parse Markdown
  * Description: Integrate Markdown into your WordPress site. A simple, light-weight, no configuration-required, standards-driven plugin that allows commenters to use Markdown in their comments.
  * Plugin URI:  https://www.benmarshall.me/wordpress-markdown/
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Ben Marshall
  * Author URI:  https://www.benmarshall.me
  * Text Domain: parse-markdown
